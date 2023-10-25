@@ -29,15 +29,30 @@
     <section id="coaches">
         <h2>Coaches</h2>
         <!-- Add coach information here -->
+        <ul>
+            <li>Coach 1: Mutwii</li>
+            <li>Coach 2: Thomas </li>
+            <!-- Add more coach information as needed -->
+        </ul>
     </section>
 
     <!-- Players Page -->
     <section id="players">
         <h2>Players</h2>
         <!-- Add player information here -->
+        <ul>
+            <li>Player 1: Tobias</li>
+            <li>Player 2: Emmanuel</li>
+            <!-- Add more player information as needed -->
+        </ul>
     </section>
 
     <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2023 Super Giants Soccer Club</p>
+    </footer>
+</body>
+</html>
     <footer>
         <p>&copy; 2023 Super Giants Soccer Club</p>
     </footer>
