@@ -6,6 +6,9 @@
 <style>
     body {
         background-color: yellow;
+        background-image: url('black-patch.jpg');
+        background-size: cover;
+        background-blend-mode: multiply;
         color: black;
     }
 </style>
