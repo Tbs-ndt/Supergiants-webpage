@@ -3,15 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Super Giants Soccer Club</title>
-    <style>
-        body {
-            background-color: yellow;
-            color: black;
-        }
-    </style>
+    <title>Players - Super Giants Soccer Club</title>
 </head>
 <body>
+
+    <!-- Players Page Content -->
+    <h1>Players</h1>
+    <ul>
+        <li>Player 1: Tobias</li>
+        <li>Player 2: Emmanuel</li>
+        <!-- Add more player information as needed -->
+    </ul>
+</body>
+</html>
+
+=======
 
     <!-- Header Section -->
     <header>
@@ -40,5 +46,7 @@
     </footer>
 </body>
 </html>
+
+
 
 
