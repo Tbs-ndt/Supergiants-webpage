@@ -1,3 +1,31 @@
+  <!-- Header Section -->
+    <header>
+        <h1>Welcome to Super Giants Soccer Club</h1>
+<!-- Image with Football Players -->
+    <img src="football-players.jpg" alt="Football Players Image" width="400">
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="coaches.html">Coaches</a></li> <!-- Link to coaches.html -->
+                <li><a href="players.html">Players</a></li> <!-- Link to players.html -->
+            </ul>
+        </nav>
+    </header>
+
+    
+
+    <!-- Home Page -->
+    <section id="home">
+        <h2>Welcome to Super Giants Soccer Club</h2>
+        <p>Find out more about our coaches and players.</p>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2023 Super Giants Soccer Club</p>
+    </footer>
+</body>
+</html>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,7 +44,7 @@
     </ul>
 </body>
 </html>
-=======
+
     <title>Players - Super Giants Soccer Club</title>
 </head>
 <body>
@@ -31,36 +59,9 @@
 </body>
 </html>
 
-=======
 
-    <!-- Header Section -->
-    <header>
-        <h1>Welcome to Super Giants Soccer Club</h1>
-        <nav>
-            <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="coaches.html">Coaches</a></li> <!-- Link to coaches.html -->
-                <li><a href="players.html">Players</a></li> <!-- Link to players.html -->
-            </ul>
-        </nav>
-    </header>
 
-    <!-- Image with Football Players -->
-    <img src="football-players.jpg" alt="Football Players Image" width="400">
-
-    <!-- Home Page -->
-    <section id="home">
-        <h2>Welcome to Super Giants Soccer Club</h2>
-        <p>Find out more about our coaches and players.</p>
-    </section>
-
-    <!-- Footer Section -->
-    <footer>
-        <p>&copy; 2023 Super Giants Soccer Club</p>
-    </footer>
-</body>
-</html>
-
+  
 
 
 
