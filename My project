@@ -2,6 +2,9 @@
 <html lang="en">
 <!-- Header Section -->
     <header>
+<title> Super Giants</title>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <h1>Welcome to Super Giants Soccer Club</h1>
 <!-- Image with Football Players -->
     <img src="football-players.jpg" alt="Football Players Image" width="400">
@@ -20,9 +23,6 @@
         <p>Find out more about our coaches and players.</p>
     </section>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <title>Coaches - Super Giants Soccer Club</title>
 </head>
 <body>
