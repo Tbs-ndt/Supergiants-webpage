@@ -3,6 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Coaches - Super Giants Soccer Club</title>
+</head>
+<body>
+    <!-- Coaches Page Content -->
+    <h1>Coaches</h1>
+    <ul>
+        <li>Coach 1: Mutwii</li>
+        <li>Coach 2: Thomas</li>
+        <!-- Add more coach information as needed -->
+    </ul>
+</body>
+</html>
+=======
     <title>Players - Super Giants Soccer Club</title>
 </head>
 <body>
@@ -46,6 +60,7 @@
     </footer>
 </body>
 </html>
+
 
 
 
