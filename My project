@@ -3,59 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Super Giants Soccer Club</title>
-    <style>
-        body {
-            background-color: yellow;
-            color: black;
-        }
-    </style>
+    <title>Players - Super Giants Soccer Club</title>
 </head>
 <body>
-
-    <!-- Header Section -->
-    <header>
-        <h1>Welcome to Super Giants Soccer Club</h1>
-        <nav>
-            <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#coaches">Coaches</a></li>
-                <li><a href="#players">Players</a></li>
-            </ul>
-        </nav>
-    </header>
-
-    <!-- Home Page -->
-    <section id="home">
-        <h2>Welcome to Super Giants Soccer Club</h2>
-        <p>Find out more about our coaches and players.</p>
-    </section>
-
-    <!-- Coaches Page -->
-    <section id="coaches">
-        <h2>Coaches</h2>
-        <!-- Add coach information here -->
-        <ul>
-            <li>Coach 1: Mutwii</li>
-            <li>Coach 2: Thomas</li>
-            <!-- Add more coach information as needed -->
-        </ul>
-    </section>
-
-    <!-- Players Page -->
-    <section id="players">
-        <h2>Players</h2>
-        <!-- Add player information here -->
-        <ul>
-            <li>Player 1: Tobias</li>
-            <li>Player 2: Emmanuel</li>
-            <!-- Add more player information as needed -->
-        </ul>
-    </section>
-
-    <!-- Footer Section -->
-    <footer>
-        <p>&copy; 2023 Super Giants Soccer Club</p>
-    </footer>
+    <!-- Players Page Content -->
+    <h1>Players</h1>
+    <ul>
+        <li>Player 1: Tobias</li>
+        <li>Player 2: Emmanuel</li>
+        <!-- Add more player information as needed -->
+    </ul>
 </body>
 </html>
+
