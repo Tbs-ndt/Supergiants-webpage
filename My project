@@ -46,6 +46,62 @@
     </script>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body {
+            background-color: yellow;
+            background-image: url('black-patch.jpg');
+            background-size: cover;
+            background-blend-mode: multiply;
+            color: black;
+        }
+    </style>
+    <title>Super Giants</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>Welcome to Super Giants Soccer Club</h1>
+        <!-- Image with Football Players -->
+        <img src="/media/enskie/55BB612E489DB31E/Fb/Opera Snapshot_2023-10-16_090748_web.facebook.com.png" alt="Football Players Image" width="1000" height="1500">
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="coaches.html">Coaches</a></li> <!-- Link to coaches.html -->
+                <li><a href="players.html">Players</a></li> <!-- Link to players.html -->
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Home Page -->
+    <section id="home">
+        <h2>Super Giants Soccer Club</h2>
+        <p>Find out more about our coaches and players.</p>
+    </section>
+
+    <!-- Coaches Page Content -->
+    <h1>Coaches</h1>
+    <ul>
+        <li>Coach 1: Mutwii</li>
+        <li>Coach 2: Thomas</li>
+        <!-- Add more coach information as needed -->
+    </ul>
+
+    <!-- JavaScript for smooth scrolling -->
+    <script>
+        document.querySelector('a[href="#home"]').addEventListener('click', function (e) {
+            e.preventDefault();
+            document.querySelector('#home').scrollIntoView({
+                behavior: 'smooth'
+            });
+        });
+    </script>
+</body>
+</html>
 
 
 
